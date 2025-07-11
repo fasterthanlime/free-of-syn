@@ -57,3 +57,4 @@ These projects are free of syn (submit a PR to add yours):
   * [xmacro/xmacro_lib](https://docs.rs/xmacro_lib/latest/xmacro_lib/) Proc-Macro engine for templating rust code
   * [mident](https://github.com/ArcaneNibble/mident) is a toolbox for creating and manipulating identifiers in declarative macros
   * [eager2](https://github.com/Daniel-Aaron-Bloom/eager2) is a framework for eager macro expansion
+  * [RustRoom](https://github.com/ReeseHatfield/RustRoom) is a TCP chatroom for Rust
