@@ -54,6 +54,10 @@ the "free of syn" campaign with a badge:
 These projects are free of syn (submit a PR to add yours):
 
   * [facet](https://github.com/facet-rs/facet) is a reflection and serialization/deserialization framework for Rust
+  * [displaystr](https://github.com/nik-rev/displaystr) allows ergonomically implementing the `Display` trait for enums
+  * [derive-aliases](https://github.com/nik-rev/derive-aliases) allows defining aliases for derives for example `#[derive(..Copy)]` expanding to `#[derive(Copy, Clone)]`
+  * [culit](https://github.com/nik-rev/culit) lets you have custom literals in rust such as `10km`
+  * [docstr](https://github.com/nik-rev/docstr) is an ergonomic way to create multi-line string literals
   * [xmacro/xmacro_lib](https://docs.rs/xmacro_lib/latest/xmacro_lib/) Proc-Macro engine for templating rust code
   * [mident](https://github.com/ArcaneNibble/mident) is a toolbox for creating and manipulating identifiers in declarative macros
   * [eager2](https://github.com/Daniel-Aaron-Bloom/eager2) is a framework for eager macro expansion
