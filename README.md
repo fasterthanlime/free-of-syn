@@ -62,4 +62,5 @@ These projects are free of syn (submit a PR to add yours):
   * [mident](https://github.com/ArcaneNibble/mident) is a toolbox for creating and manipulating identifiers in declarative macros
   * [eager2](https://github.com/Daniel-Aaron-Bloom/eager2) is a framework for eager macro expansion
   * [maybe_special](https://github.com/pypylia/maybe_special) is an attribute macro to automatically generate target feature specialisations.
+  * [variadics_please](https://github.com/bevyengine/variadics_please) provides macros for implementing traits on variadic types.
   
